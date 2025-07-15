@@ -10,12 +10,12 @@ src/
 │   │           ├── MainApp.java         
 │   │           ├── config/              
 │   │           ├── models/              
-│   │           ├── services/           
+│   │           ├── services/            
 │   │           └── utils/               
 │   └── resources/
 │       └── META-INF/
 │           └── persistence.xml          
-pom.xml                                  
+pom.xml                                   
 
 # Key Features
 - Complete Book Management - Add, view, update, and track books
