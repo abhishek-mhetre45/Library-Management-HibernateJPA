@@ -1,21 +1,6 @@
 # Library-Management-HibernateJPA
 A robust Library Management System built with modern Java technologies that provides complete management of books, members, and borrowing operations.
-
-# Project Structure
-src/
-├── main/
-│   ├── java/
-│   │   └── com/
-│   │       └── library/
-│   │           ├── MainApp.java         
-│   │           ├── config/              
-│   │           ├── models/              
-│   │           ├── services/            
-│   │           └── utils/               
-│   └── resources/
-│       └── META-INF/
-│           └── persistence.xml          
-pom.xml                                   
+           
 
 # Key Features
 - Complete Book Management - Add, view, update, and track books
