@@ -27,8 +27,10 @@ public class BorrowRecord {
     @Column(name = "return_date")
     private LocalDate returnDate;
     
-    // Constructors, getters, setters
-    public BorrowRecord() {}
+    
+    public BorrowRecord() {
+        
+    }
 
     public BorrowRecord(Book book, Member member, LocalDate dueDate) {
         this.book = book;
@@ -36,5 +38,5 @@ public class BorrowRecord {
         this.dueDate = dueDate;
     }
 
-    // Getters and setters...
+    
 }
